@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874181716803",
+    "project_id": "alarmreceiver-2b3f3",
+    "storage_bucket": "alarmreceiver-2b3f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874181716803:android:96589b282b7e46d5895df6",
+        "android_client_info": {
+          "package_name": "mael.hoon1222.alarm_receiver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcGwqYSZSo_RrpnAOJktBl9GvUWoRH49A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
